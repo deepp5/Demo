@@ -2,8 +2,8 @@
 // Chapter 2
 // Height Conversion problem
 
-#include<iostream>
-#include<string>
+#include <iostream>
+#include <string>
 
 using namespace std;
 
@@ -16,10 +16,10 @@ int main()
 	feet = height / 12;
 	inches = height % 12;
 
-	cout <<height<<" inches converts to "<<feet<<"'"<<inches<<"\"" << endl;
+	cout << height << " inches converts to " << feet << "'" << inches << "\"" << endl;
+	cout << "CHECK CODE" << endl;
 
 	return 0;
-
 }
 
 /*
